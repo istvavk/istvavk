@@ -1,4 +1,4 @@
-# Hi there, I'm Antonio 👋
+# <p align="center">Hi there, I'm Antonio 👋</p> 
 
 <p>Mathematics and Computer Science student</p>
 
