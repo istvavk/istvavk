@@ -2,7 +2,7 @@
 
 <p>Mathematics and Computer Science student</p>
 
-<img align="right" width="47%" src="https://github-readme-stats.vercel.app/api?username=istvavk&show_icons=true&theme=radical" />
+<img align="right" width="55%" src="https://github-readme-stats.vercel.app/api?username=istvavk&show_icons=true&theme=radical" />
 
 <section align="left" width="47%" id="tools">
 <h3 align="left">Languages and Tools:</h3>
