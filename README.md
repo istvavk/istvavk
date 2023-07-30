@@ -2,8 +2,7 @@
 
 <p>Mathematics and Computer Science student</p>
 
-<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=istvavk&show_icons=true&theme=radical" />
-<img width=390 src="https://streak-stats.demolab.com/?user=istvavk&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+<img align="right" width="50%" src="https://streak-stats.demolab.com/?user=istvavk&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
 
 <section align="left" width="47%" id="tools">
 <h2>⚒️ Languages-Frameworks-Tools ⚒️</h2>
