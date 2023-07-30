@@ -5,7 +5,7 @@
 <img align="right" width="55%" src="https://github-readme-stats.vercel.app/api?username=istvavk&show_icons=true&theme=radical" />
 
 <section align="left" width="47%" id="tools">
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<h2>⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="left">
     <img src="https://skillicons.dev/icons?i=nodejs,github,python,javascript,typescript,svelte" /><br>
