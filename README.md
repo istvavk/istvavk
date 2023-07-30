@@ -8,7 +8,7 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=nodejs,github,python,javascript,svelte,firebase" /><br>
+    <img src="https://skillicons.dev/icons?i=nodejs,github,python,javascript,typescript,svelte,firebase" /><br>
     <img src="https://skillicons.dev/icons?i=bootstrap,mysql,html,css,git" />
 </div>
 </section>
