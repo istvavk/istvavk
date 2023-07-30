@@ -3,6 +3,7 @@
 <p>Mathematics and Computer Science student</p>
 
 <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=istvavk&show_icons=true&theme=radical" />
+<img src="https://github-readme-stats-istvavk.vercel.app/api?username=istvavk&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats"/>
 
 <section align="left" width="47%" id="tools">
 <h2>⚒️ Languages-Frameworks-Tools ⚒️</h2>
