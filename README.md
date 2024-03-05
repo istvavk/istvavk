@@ -6,7 +6,6 @@
 
 <section align="left" width="47%" id="tools">
 <h2>⚒️ Languages-Frameworks-Tools ⚒️</h2>
-<br/>
 <div align="left">
     <img src="https://skillicons.dev/icons?i=nodejs,github,python,javascript,typescript,svelte,cpp" /><br>
     <img src="https://skillicons.dev/icons?i=bootstrap,mysql,firebase,html,css,git" />
